@@ -1,12 +1,12 @@
 ---
-description: Basic stuffs to get started with creating a custom Project Sekai chart.
 icon: flag-checkered
+description: Basic stuffs to get started with creating a custom Project Sekai chart.
 ---
 
 # Start Here!
 
 {% hint style="warning" %}
-The content on this page is incomplete. If you are able to help out, please consider [updating the article!](start-here.md)
+The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../contribute/)
 {% endhint %}
 
 To get started, you will need...&#x20;

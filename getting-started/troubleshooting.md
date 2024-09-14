@@ -1,12 +1,12 @@
 ---
-description: Fixing common problems, either by the charting program, or something else.
 icon: bug-slash
+description: Fixing common problems, either by the charting program, or something else.
 ---
 
 # Troubleshooting
 
 {% hint style="warning" %}
-The content on this page is incomplete. If you are able to help out, please consider [updating the article!](start-here.md)
+The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../contribute/)
 {% endhint %}
 
 **Audio issues (MMW4CC)**

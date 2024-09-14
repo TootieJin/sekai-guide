@@ -1,7 +1,7 @@
 # Making Charts in Different Difficulties
 
 {% hint style="warning" %}
-The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../getting-started/start-here.md)
+The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../contribute/)
 {% endhint %}
 
 ***

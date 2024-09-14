@@ -1,14 +1,14 @@
 ---
+icon: wave-sine
 description: >-
   Did you know a Hold (or Slider) in Project Sekai can make shapes? Heh, like
   CHUNITHM...
-icon: wave-sine
 ---
 
 # Creating Slide Shapes
 
 {% hint style="warning" %}
-The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../getting-started/start-here.md)
+The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../contribute/)
 {% endhint %}
 
 ## Simple Slide Shapes
