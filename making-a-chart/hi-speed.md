@@ -1,8 +1,8 @@
 ---
+icon: angles-up
 description: >-
   "Where did the note go!?" - Hi-Speed: How it works and common effects using
   Hi-Speed.
-icon: angles-up
 ---
 
 # Hi-Speed
@@ -46,7 +46,7 @@ Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of
 
 </div>
 
-2. Interpolate Hi-Speeds between the llast 2 Hi-Speeds. (This step can be done easily in [MMW4CC](https://github.com/sevenc-nanashi/MikuMikuWorld4CC) like so.)
+2. Interpolate Hi-Speeds between the last 2 Hi-Speeds. (This step can be done easily in [MMW4CC](https://github.com/sevenc-nanashi/MikuMikuWorld4CC) like so.)
 
 <div>
 
