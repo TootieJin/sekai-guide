@@ -13,4 +13,4 @@ If you would like to make a contribution to this guide, whether providing a tran
 
 The people listed below are chiefly responsible for helping the guide more helpful and complete.
 
-<table><thead><tr><th width="139">Name</th><th>Role</th></tr></thead><tbody><tr><td><a href="https://tootiejin.com">TootieJin</a></td><td>Lead wiki editor</td></tr><tr><td><a href="https://discordid.netlify.app/?id=224607276948783105">moplo</a><br><a href="https://discordid.netlify.app/?id=1249209345141506172">Zero</a></td><td>Wiki contributor</td></tr><tr><td></td><td><em>waiting for someone...</em></td></tr></tbody></table>
+<table><thead><tr><th width="139">Name</th><th>Role</th></tr></thead><tbody><tr><td><a href="https://tootiejin.com">TootieJin</a></td><td>Lead wiki editor</td></tr><tr><td><a href="https://discordid.netlify.app/?id=224607276948783105">moplo</a><br><a href="https://discordid.netlify.app/?id=1249209345141506172">Zero</a><br><a href="https://discordid.netlify.app/?id=472191302239387649">nuezn</a></td><td>Wiki contributor</td></tr><tr><td></td><td><em>waiting for someone...</em></td></tr></tbody></table>

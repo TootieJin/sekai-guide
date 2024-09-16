@@ -1,3 +1,9 @@
+---
+description: >-
+  A list of advice when making charts. Understanding completely can lead you to
+  success!
+---
+
 # General Advice
 
 {% hint style="info" %}
@@ -29,6 +35,8 @@ We recommend that the first song you chart be something relatively simple. It sh
 If you're making a playable chart, **playtest in another player's perspective**. When playtesting your charts, you always know what's coming up and what to do next. The important thing to remember is that: everyone else doesn't. So, it is important to consider what the player sees and identify potential playability concerns.\
 \
 Also, **don't think the chart is FC-able until you playtest.** This goes the same for whether you can clear the chart you made or not.
+
+* Know what levels you can FC, AP, Pass consistently, and with Fail, how many/percentage of notes you miss on average for each difficulty. If you're aiming for a playable chart that many people will play, keep the difficulty level under 33. Most players on Chart Cyanvas play Lv26～31, and that is reflected through the Popular section.
 
 ## 5. Stop and rest.
 
