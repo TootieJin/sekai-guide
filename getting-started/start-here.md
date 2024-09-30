@@ -12,6 +12,7 @@ The content on this page is incomplete. If you are able to help out, please cons
 To get started, you will need...&#x20;
 
 * [Sonolus app](https://sonolus.com/) on your mobile device
+* Join the [Chart Cyanvas Discord server](https://discord.com/invite/chart-cyanvas-1060525567797112832)
 * Chart editor on PC, preferably [MMW4CC](https://github.com/sevenc-nanashi/MikuMikuWorld4CC?tab=readme-ov-file#download)
 * Optionally some knowledge of Japanese
 

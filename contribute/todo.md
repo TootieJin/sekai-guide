@@ -1,8 +1,8 @@
 ---
+icon: list-radio
 description: >-
   Stuffs to do. I'll add more things to make as time goes on due to the lack of
   free time.
-icon: list-radio
 ---
 
 # TODO
@@ -16,10 +16,9 @@ icon: list-radio
 
 ## Making a Chart
 
-* [ ] Step-by-step, comprehensive guide from making a chart to publishing
+* [ ] Tutorial from making a chart to publishing
 * [ ] Creating slide shapes (moplo)
 * [x] Hi-Speed (me)
-* [ ] Gimmicks (not sure about this)
 * [ ] (more?)
 
 ## Advice

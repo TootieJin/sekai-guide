@@ -27,7 +27,7 @@ You can place the Hi-Speed event by pressing <img src="../.gitbook/assets/image 
 Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of going towards the judgement line, notes will go _backwards._
 
 * A <mark style="color:red;">x-1000</mark> and a <mark style="color:red;">x1000</mark> of equal lengths will not cancel out to a <mark style="color:red;">x1</mark> distance; it will cancel out to a <mark style="color:red;">x0</mark>. (-1000 + 1000 = 0 measures)
-  * A <mark style="color:red;">x1</mark> distance is made with a <mark style="color:red;">x1000</mark> and <mark style="color:red;">x-998</mark>. (1000\*1/2 measures + -988\*1/2 measures = 2\*1/2 = 1 measure)
+  * A <mark style="color:red;">x1</mark> distance is made with a <mark style="color:red;">x1000</mark> and <mark style="color:red;">x-998</mark>. (1000\*1/2 measures + -998\*1/2 measures = 2\*1/2 = 1 measure)
 
 ***
 
@@ -42,7 +42,7 @@ Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Step 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Step 1</p></figcaption></figure>
 
 </div>
 
@@ -50,7 +50,7 @@ Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Interpolate Hi-Speeds in MMW4CC</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Interpolate Hi-Speeds in MMW4CC</p></figcaption></figure>
 
  
 
