@@ -1,8 +1,8 @@
 ---
+icon: interrobang
 description: >-
   Compilation of gimmicks you can do to make your chart feel unique, or
   something. Last updated: September 30th, 2024
-icon: interrobang
 ---
 
 # Gimmicks Lab
@@ -11,7 +11,7 @@ icon: interrobang
 The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../contribute/)
 {% endhint %}
 
-This page is the compilation of gimmicks made by real charters that you can use to make you charts, proudly compiled by [TootieJin](https://tootiejin.com) (and possibly [other contributors soon...](../contribute/)). **It's best if you figure it out on your own so you can learn better.** \
+This page is the compilation of gimmicks made by real charters that you can use to make you charts, proudly compiled by [TootieJin](https://tootiejin.com) (and possibly [other contributors soon...](../contribute/)). **It's best if you figure it out on your own so you can learn better when charting.** \
 \
 &#x20; → [See the usage guide for help.](../getting-started/usage-guide-mmw4cc.md)
 
@@ -19,11 +19,11 @@ This page is the compilation of gimmicks made by real charters that you can use 
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (40).png" alt="" width="126"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt="" width="251"><figcaption><p>example 1</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (42).png" alt="" width="161"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt="" width="241"><figcaption><p>example 2</p></figcaption></figure>
 
 </div>
 
@@ -44,3 +44,25 @@ Not really sure how to explain this pattern.
 <figure><img src="../.gitbook/assets/image (45).png" alt="" width="256"><figcaption><p>w/ hold mid outlines</p></figcaption></figure>
 
 </div>
+
+## Short "linked" Slide
+
+<figure><img src="../.gitbook/assets/image (46).png" alt="" width="224"><figcaption></figcaption></figure>
+
+## Hollow Slide
+
+<div>
+
+<figure><img src="../.gitbook/assets/image (47).png" alt="" width="284"><figcaption><p>without hold mid outlines</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/image (48).png" alt="" width="277"><figcaption><p>w/ hold mid outlines</p></figcaption></figure>
+
+</div>
+
+## Change fingers within a Single Hold
+
+In this example: Leave your left finger for the flick, move your right fingers into the hold note after hitting a trace note.
+
+<figure><img src="../.gitbook/assets/image (49).png" alt="" width="256"><figcaption></figcaption></figure>
