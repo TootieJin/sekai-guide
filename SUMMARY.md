@@ -25,3 +25,4 @@
 ***
 
 * [Made by TootieJin](https://tootiejin.com)
+* [Donate (Ko-fi)](https://ko-fi.com/tootiejin)
