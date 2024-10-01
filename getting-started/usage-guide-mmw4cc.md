@@ -147,7 +147,7 @@ Just like the original MikuMikuWorld, MMW4CC supports auto save. It is enabled b
 
 * Several actions be assigned a keyboard shortcut
 * If multiple shortcuts are assigned to an action, the topmost one will be displayed in menus
-* Add more shortcuts if needed be selecting `Add`. Up to 4 shortcuts can be created per action
+* Add more shortcuts if needed by selecting `Add`. Up to 4 shortcuts can be created per action
 
 ***
 

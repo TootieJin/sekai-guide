@@ -1,6 +1,6 @@
 ---
-description: This article is about a procedure for creating charts.
 icon: play
+description: This article is about a procedure for creating charts.
 ---
 
 # Charting Tutorial
@@ -15,7 +15,7 @@ The content on this page is incomplete. If you are able to help out, please cons
 
 ## III. Upload your chart
 
-#### 0. Register a Sonolus account in your device.
+### 0. Register a Sonolus account in your device.
 
 Press the "Account" button and sign in.
 
@@ -28,3 +28,6 @@ Press the "Account" button and sign in.
 <figure><img src="../.gitbook/assets/Screenshot_2024.09.29_17.53.21.861.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
+
+### 1. Log in to Chart Cyanvas
+
