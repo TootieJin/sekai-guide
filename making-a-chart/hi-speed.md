@@ -42,7 +42,7 @@ Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Step 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Step 1</p></figcaption></figure>
 
 </div>
 
@@ -50,7 +50,7 @@ Hi-Speeds value can also go below <mark style="color:red;">x0</mark>. Instead of
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Interpolate Hi-Speeds in MMW4CC</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Interpolate Hi-Speeds in MMW4CC</p></figcaption></figure>
 
  
 

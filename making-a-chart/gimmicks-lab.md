@@ -11,8 +11,9 @@ description: >-
 The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../contribute/)
 {% endhint %}
 
-This page is the compilation of gimmicks made by real charters that you can use to make you charts, proudly compiled by [TootieJin](https://tootiejin.com) (and possibly [other contributors soon...](../contribute/)). **It's best if you figure it out on your own so you can learn better when charting.** \
+This page is the compilation of gimmicks made by real charters that you can use to make you charts, proudly compiled by [TootieJin](https://tootiejin.com) (and possibly [other contributors soon...](../contribute/)). \
 \
+**It's best if you figure it out on your own so you can learn better when charting.** \
 &#x20; → [See the usage guide for help.](../getting-started/usage-guide-mmw4cc.md)
 
 ## Pixelated Holds
@@ -76,5 +77,21 @@ In this example: Leave your left finger for the flick, move your right fingers i
  
 
 <figure><img src="../.gitbook/assets/image (50).png" alt="" width="351"><figcaption></figcaption></figure>
+
+</div>
+
+## Various ingenuity Hold Notes
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="450"><figcaption></figcaption></figure>
+
+## Thunder Bolts shaped Hold
+
+<div>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="358"><figcaption></figcaption></figure>
 
 </div>

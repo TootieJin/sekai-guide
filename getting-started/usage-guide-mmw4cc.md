@@ -115,15 +115,15 @@ The start and end points of a hold can be hidden. A hidden point does not requir
 
 Right-click anywhere on the timeline to open the context menu. Most of the functions are self-explanatory and can be used as keyboard shortcuts.
 
-* Shrink Up: Places the selected notes 1 tick apart starting from the latest note
-* Shrink Down: Places the selected notes 1 tick apart starting from the earliest note
-* Connect Holds: Merges two holds together
-* Split Hold: Split a hold note to two separate hold notes
-* Repeat Hold Mids: Insert selected Hold Mids at the next division repeatedly (you can make zigzag hold note easily with this tool)
-* Convert Hold to Traces:
-  * Add Traces for Hold: Add trace notes in-between the hold points. The number of traces can be changed depending on the number of measure divisions specified.
-  * Convert Hold to Traces: Turn the holds into trace notes. The number of traces can be changed depending on the number of measure divisions specified. <mark style="color:red;">(Note: at this time, the hold flick at the end is only converted to normal trace note.)</mark>
-* Interpolate Hi-Speeds: Insert Hi-Speeds in-between the selected Hi-Speed and changes value in a linear interpolation. The more divisions selected, the 'smoother' the speed change.
+* **Shrink Up:** Places the selected notes 1 tick apart starting from the latest note
+* **Shrink Down:** Places the selected notes 1 tick apart starting from the earliest note
+* **Connect Holds:** Merges two holds together
+* **Split Hold:** Split a hold note to two separate hold notes
+* **Repeat Hold Mids:** Insert selected Hold Mids at the next division repeatedly (you can make zigzag hold note easily with this tool)
+* **Convert Hold to Traces:**
+  * _Add Traces for Hold:_ Add trace notes in-between the hold points. The number of traces can be changed depending on the number of measure divisions specified.
+  * _Convert Hold to Traces:_ Turn the holds into trace notes. The number of traces can be changed depending on the number of measure divisions specified. <mark style="color:red;">(Note: at this time, the hold flick at the end is only converted to normal trace note.)</mark>
+* **Interpolate Hi-Speeds:** Insert Hi-Speeds in-between the selected Hi-Speed and changes value in a linear interpolation. The more divisions selected, the 'smoother' the speed change.
 
 ***
 

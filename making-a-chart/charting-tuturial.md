@@ -1,10 +1,9 @@
 ---
 icon: play
 description: This article is about a procedure for creating charts.
-hidden: true
 ---
 
-# Charting Tutorial
+# (WIP) Charting Tutorial
 
 {% hint style="warning" %}
 The content on this page is incomplete. If you are able to help out, please consider [updating the article!](../contribute/)
@@ -22,7 +21,7 @@ Press the "Account" button and sign in.
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 

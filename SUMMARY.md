@@ -12,7 +12,7 @@
 
 ## ✏️ Making a chart
 
-* [Charting Tutorial](making-a-chart/charting-tutorial.md)
+* [(WIP) Charting Tutorial](making-a-chart/charting-tuturial.md)
 * [Creating Slide Shapes](making-a-chart/creating-slide-shapes.md)
 * [Hi-Speed](making-a-chart/hi-speed.md)
 * [Gimmicks Lab](making-a-chart/gimmicks-lab.md)
