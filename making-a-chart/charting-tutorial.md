@@ -1,6 +1,7 @@
 ---
 icon: play
 description: This article is about a procedure for creating charts.
+hidden: true
 ---
 
 # Charting Tutorial

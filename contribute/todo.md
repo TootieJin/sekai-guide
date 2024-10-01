@@ -16,7 +16,7 @@ description: >-
 
 ## Making a Chart
 
-* [ ] Tutorial from making a chart to publishing
+* [ ] Tutorial from making a chart to publishing (scrapped)
 * [ ] Creating slide shapes (moplo)
 * [x] Hi-Speed (me)
 * [ ] (more?)
