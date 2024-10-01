@@ -2,7 +2,7 @@
 icon: interrobang
 description: >-
   Compilation of gimmicks you can do to make your chart feel unique, or
-  something. Last updated: September 30th, 2024
+  something. Last updated: October 1st, 2024
 ---
 
 # Gimmicks Lab
@@ -66,3 +66,15 @@ Not really sure how to explain this pattern.
 In this example: Leave your left finger for the flick, move your right fingers into the hold note after hitting a trace note.
 
 <figure><img src="../.gitbook/assets/image (49).png" alt="" width="256"><figcaption></figcaption></figure>
+
+## "熱風" Hold Transition
+
+<div>
+
+<figure><img src="../.gitbook/assets/neppu.gif" alt="" width="360"><figcaption><p>this. it's so cool!!</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/image (50).png" alt="" width="351"><figcaption></figcaption></figure>
+
+</div>
